@@ -1,0 +1,7 @@
+﻿  Control.cpp
+c:\users\javas\source\repos\control\control\control.cpp(8): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\javas\source\repos\control\control\control.cpp(15): warning C4473: "fscanf_s": передано недостаточно аргументов для строки формата
+  c:\users\javas\source\repos\control\control\control.cpp(15): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\javas\source\repos\control\control\control.cpp(15): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+  c:\users\javas\source\repos\control\control\control.cpp(15): note: этот аргумент используется в качестве размера буфера
+  Control.vcxproj -> C:\Users\javas\source\repos\Control\Debug\Control.exe
