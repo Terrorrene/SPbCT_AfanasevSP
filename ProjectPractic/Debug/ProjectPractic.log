@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+c:\users\admin\source\repos\projectpractic\projectpractic\myform.h(42): warning C4101: fuka: неиспользованная локальная переменная
+c:\users\admin\source\repos\projectpractic\projectpractic\myform.h(59): warning C4101: fuka: неиспользованная локальная переменная
+c:\users\admin\source\repos\projectpractic\projectpractic\myform.h(76): warning C4101: fuka: неиспользованная локальная переменная
+c:\users\admin\source\repos\projectpractic\projectpractic\myform.h(93): warning C4101: fuka: неиспользованная локальная переменная
+c:\users\admin\source\repos\projectpractic\projectpractic\myform.h(110): warning C4101: fuka: неиспользованная локальная переменная
+c:\users\admin\source\repos\projectpractic\projectpractic\myform.h(127): warning C4101: fuka: неиспользованная локальная переменная
+c:\users\admin\source\repos\projectpractic\projectpractic\myform.h(144): warning C4101: fuka: неиспользованная локальная переменная
+c:\users\admin\source\repos\projectpractic\projectpractic\myform.h(161): warning C4101: fuka: неиспользованная локальная переменная
+c:\users\admin\source\repos\projectpractic\projectpractic\myform.h(178): warning C4101: fuka: неиспользованная локальная переменная
+c:\users\admin\source\repos\projectpractic\projectpractic\myform.h(194): warning C4101: fuka: неиспользованная локальная переменная
+c:\users\admin\source\repos\projectpractic\projectpractic\myform.h(544): warning C4129: p: неизвестная escape-последовательность
+c:\users\admin\source\repos\projectpractic\projectpractic\myform.h(357): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note:  см. объявление "localtime"
+c:\users\admin\source\repos\projectpractic\projectpractic\myform.h(539): warning C4101: bufer: неиспользованная локальная переменная
+c:\users\admin\source\repos\projectpractic\projectpractic\myform.cpp(11): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+c:\users\admin\source\repos\projectpractic\projectpractic\myform.cpp(12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ProjectPractic.vcxproj -> C:\Users\Admin\source\repos\ProjectPractic\Debug\ProjectPractic.exe
